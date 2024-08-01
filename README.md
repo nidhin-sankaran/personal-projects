@@ -1,2 +1,3 @@
 # personal-projects
-Personal practice projects
+Personal practice projects - java , spring boot
+
